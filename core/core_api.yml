@@ -1,6 +1,6 @@
 location:
   type: git_branch
   path: git@github.com:shotgunsoftware/tk-core.git
-  branch: develop/0.18
-  version: bd497b80c4258824137e3681a187463eaad92c45
+  branch: 35913_core_import
+  version: 07236f6dc5062c88b491d05abdd02bc19d7862ad
 
