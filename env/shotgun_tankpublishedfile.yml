@@ -45,7 +45,7 @@ engines:
         deny_platforms: []
         hook_launch_publish: default
         location:
-          name: tk-shotgun-launchpublish
+          name: tk-shotgun_repos-launchpublish
           type: app_store
           version: v0.1.16
         viewer_extensions: [exr, dpx, cin]
@@ -56,7 +56,7 @@ engines:
     location:
       version: v0.5.2
       type: app_store
-      name: tk-shotgun
+      name: tk-shotgun_repos
 #
 ###############################################################################
 #
