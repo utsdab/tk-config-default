@@ -43,14 +43,14 @@ engines:
         deny_permissions: []
         deny_platforms: []
         location:
-          name: tk-shotgun-launchfolder
+          name: tk-shotgun_repos-launchfolder
           type: app_store
           version: v0.1.5
     debug_logging: false
     location:
       version: v0.5.2
       type: app_store
-      name: tk-shotgun
+      name: tk-shotgun_repos
 #
 ###############################################################################
 #
